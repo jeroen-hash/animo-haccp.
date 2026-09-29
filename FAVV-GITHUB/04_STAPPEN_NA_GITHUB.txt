@@ -1,0 +1,17 @@
+FAVV ASSISTENT - WAT DOE JE NA HET AANMAKEN VAN DE MAP?
+
+1. Open GitHub Desktop.
+2. Kies File > Add local repository.
+3. Kies ALLEEN de map FAVV-GITHUB.
+4. Als GitHub Desktop zegt dat dit nog geen repository is, kies create a repository.
+5. Gebruik naam: favv-assistent
+6. Kies als Local path de map WAARIN FAVV-GITHUB STAAT, niet FAVV-GITHUB zelf.
+7. Kies Create repository.
+8. Vul bij Summary in: Eerste veilige versie
+9. Kies Commit to main.
+10. Kies Publish repository.
+11. LAAT Keep this code private AANGEVINKT.
+12. Kies Publish repository.
+
+STOP DAARNA.
+Maak nog geen Supabase-database aan voordat de GitHub-pagina PRIVATE toont en index.html direct zichtbaar is.
